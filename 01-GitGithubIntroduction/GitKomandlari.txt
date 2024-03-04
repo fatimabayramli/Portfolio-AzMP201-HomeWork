@@ -1,0 +1,31 @@
+1. **git init**: Lokal Git repository yaratmaq.
+2. **git clone [url]**: Global repository-ni kopyalamaq.
+3. **git add [fayl_adı]**: İş davam edərkən qovluqdakı dəyişiklikləri növbəti addımlar üçün hazırlamaq.
+4. **git commit -m "[commit_ərizəsi]"**: Staging bölməsindəki dəyişiklikləri lokal repository-ə qeyd etmək.
+5. **git push**: Lokal repository-dəki dəyişiklikləri uzaq serverə göndərmək.
+6. **git pull**: Uzaq repository-dəki dəyişiklikləri lokal repository-ə endirmək.
+7. **git status**: Proyektin vəziyyətini göstərmək.
+8. **git log**: Repository-dəki commit tarixçəsini göstərmək.
+9. **git branch**: Mövcud şöbələri siyahılamaq.
+10. **git checkout [şöbə_adı]**: Müəyyən bir şöbəyə keçid etmək.
+11. **git merge [şöbə_adı]**: Bir şöbəni cari şöbə ilə birləşdirmək.
+12. **git remote add [uzak_ad] [uzak_url]**: Yeni bir uzaq repository əlavə etmək.
+13. **git remote -v**: Uzaq repository-lərin siyahısını göstərmək.
+14. **git reset**: Fərqli gitrənlərdə köhnə commit-ləri əvəz etmək.
+15. **git rm [fayl_adı]**: Faylın izləməsini ləğv etmək.
+16. **git mv [köhnə_fayl_adı] [yeni_fayl_adı]**: Faylın adını dəyişmək.
+17. **git diff**: Fərqli commit-lər arasında fərqli faylları göstərmək.
+18. **git fetch**: Uzaq repository-dəki məlumatları lokal repository-ə gətirmək.
+19. **git stash**: İş üzrə dəyişiklikləri gizlətmək.
+20. **git tag**: Bir commit-i işarələmək.
+21. **git blame**: Fayllardakı sətirlərin son commit və müəlliflərini göstərmək.
+22. **git show**: Bir commit-in dəyişikliklərini göstərmək.
+23. **git config**: Git konfiqurasiyasını tənzimləmək.
+24. **git revert**: Bir commit-i geri qaytarmaq.
+25. **git cherry-pick**: Fərqli şöbələrdən bir neçə commit-i seçmək və əlavə etmək.
+26. **git archive**: Bir repository-dəki faylları birbaşa bir sıxılmış arxiv faylına dönüşdürmək.
+27. **git grep**: Fayllarda axtarış etmək.
+28. **git bisect**: Problemli bir commit-i tapmaq üçün avtomatik axtarış aparır.
+29. **git submodule**: Faylları başqa bir Git repository-də əlavə etmək.
+30. **git help**: Git-in kömək məlumatlarını göstərmək.
+‬

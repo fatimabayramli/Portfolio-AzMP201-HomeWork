@@ -1,0 +1,21 @@
+1. **ls**: Ətrafdakı fayl və qovluqları göstərir.
+2. **cd**: Qovluq dəyişmək üçün istifadə olunur.
+3. **pwd**: Hazırda işlədilən qovluğun tam adresini göstərir.
+4. **mkdir**: Yeni qovluq yaratmaq üçün istifadə olunur.
+5. **rmdir**: Boş qovluqları silmək üçün istifadə olunur.
+6. **cp**: Faylları və ya qovluqları kopyalamaq üçün istifadə olunur.
+7. **mv**: Faylları və ya qovluqları köçürmək və ya adını dəyişmək üçün istifadə olunur.
+8. **rm**: Faylları silmək üçün istifadə olunur.
+9. **touch**: Yeni fayl yaratmaq və ya mövcud faylın tarixini yeniləmək üçün istifadə olunur.
+10. **cat**: Faylın məzmununu terminalda göstərir.
+11. **grep**: Mətni axtarmaq üçün istifadə olunur.
+12. **nano**: Nano mətn redaktorunu başladır.
+13. **vi** / **vim**: Vi / Vim mətn redaktorunu başladır.
+14. **chmod**: Fayl və qovluqların izinlərini dəyişmək üçün istifadə olunur.
+15. **chown**: Fayl və qovluqların sahibini dəyişmək üçün istifadə olunur.
+16. **sudo**: İstifadəçiyə köməkçi fəaliyyət icra etmək üçün icazə verir.
+17. **apt-get**: APT paket idarəetmə sistemi vasitəsilə paketləri yükləmək və idarə etmək üçün istifadə olunur.
+18. **yum**: YUM paket idarəetmə sistemi vasitəsilə paketləri yükləmək və idarə etmək üçün istifadə olunur. (Fedora və CentOS üçün)
+19. **man**: Bir komandaya dair yardım sənədlərini açır.
+20. **history**: Əvvəlki komanda tarixçəsini göstərir.
+
