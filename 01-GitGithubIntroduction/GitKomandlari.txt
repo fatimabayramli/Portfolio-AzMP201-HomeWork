@@ -28,4 +28,3 @@
 28. **git bisect**: Problemli bir commit-i tapmaq üçün avtomatik axtarış aparır.
 29. **git submodule**: Faylları başqa bir Git repository-də əlavə etmək.
 30. **git help**: Git-in kömək məlumatlarını göstərmək.
-‬
