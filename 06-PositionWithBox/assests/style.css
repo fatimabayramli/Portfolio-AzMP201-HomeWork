@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 200vh;
+}
+
+body{
+    margin-top: 100px;
+    margin-right: 400px;
+    margin-left: 400px;
+}
+.card {
+    border: 1px solid gray;
+    width: 500px;
+    height: 400px;
+    position: relative;
+} 
+.a {
+    width: 60px;
+    height: 60px;
+    background-color: rgb(255, 0, 0);
+    position: absolute;
+    left: 20px;
+    top: 20px;
+}
+
+.b {
+    width: 60px;
+    height: 60px;
+    background-color: rgba(165, 42, 42, 0.858);
+    position: absolute;
+    left: 40px;
+    top: 40px;
+    z-index: 3;
+}
+
+.c {
+    width: 60px;
+    height: 60px;
+    background-color: rgb(255, 255, 0);
+    position: absolute;
+    left: 60px;
+    top: 60px;
+}
+
+.d {
+    width: 60px;
+    height: 60px;
+    background-color: orange;
+    position: sticky;
+    left: 900px;
+    top: 0;
+}
+
+.e {
+    width: 60px;
+    height: 60px;
+    background-color: green;
+    position: relative;
+    left: 300px;
+    top: 200px;
+}
+
+.f {
+    width: 60px;
+    height: 60px;
+    background-color: red;
+    position: fixed;
+    right: 0;
+}
