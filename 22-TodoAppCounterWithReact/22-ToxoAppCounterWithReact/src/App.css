@@ -1,0 +1,13 @@
+*{
+  background-color:#575757;
+  color: aliceblue;
+}
+
+button{
+  color: rgb(32, 196, 221);
+}
+
+input{
+  background-color: aliceblue;
+  color: black;
+}
