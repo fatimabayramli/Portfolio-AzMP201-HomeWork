@@ -1,0 +1,24 @@
+.basket-card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 5px;
+  }
+  
+  .basket-item-info {
+    margin-bottom: 5px;
+  }
+  
+  .basket-item-actions button {
+    margin-right: 5px;
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    padding: 3px 8px;
+    cursor: pointer;
+  }
+  
+  .basket-item-actions button:hover {
+    background-color: #bd2130;
+  }
+  
+  

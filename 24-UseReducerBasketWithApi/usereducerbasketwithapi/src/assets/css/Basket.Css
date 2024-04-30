@@ -1,0 +1,21 @@
+.basket-container {
+    position: fixed;
+    right: 10px;
+    top: 10px;
+    width: 250px;
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  .basket-header {
+    margin-bottom: 10px;
+  }
+  
+  .basket-items {
+    margin-bottom: 10px;
+  }
+  
+  .total-price {
+    font-weight: bold;
+  }
+  
